@@ -1,0 +1,12 @@
+
+ORIGIN      
+        1 aaaaa aaaac aaaag aaaat aaaca aaacc aaacg aaact
+        9 aaaga aaagc aaagg aaagt aaata aaatc aaatg aaatt
+        17 aacaa aacac aacag aacat aacca aaccc aaccg aacct
+        25 aacga aacgc aacgg aacgt aacta aactc aactg aactt
+        33 aagaa aagac aagag aagat aagca aagcc aagcg aagct
+        41 aagga aaggc aaggg aaggt aagta aagtc aagtg aagtt
+        aaaaa aaaaa aaaaa aaaaa aaaaa aaaaa aaaaa aaaaa 
+        aaaac aaaac aaaac aaaac aaaac aaaac aaaac aaaac
+      
+//

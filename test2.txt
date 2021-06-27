@@ -1,0 +1,6 @@
+
+ORIGIN      
+        1 gatcctccat atacaacggt atctccacct caggtttaga tctcaacaac ggaaccattg
+       61 ccgacatgag acagttaggt atcgtcgaga gttacaagct aaaacgagca gtagtcagct
+      
+//
